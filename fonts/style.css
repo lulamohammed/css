@@ -1,7 +1,14 @@
 h1{
-    font-size: 16px;
-    font-family:Playwrite;
-font-style: normal;
-font-weight: bolder;
-font-variant: small-caps;
+   font: normal bolder 100px/1.6em italic;
+
+
+
+}
+
+p{
+
+    line-height: 1.6;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+
 }
